@@ -11,7 +11,9 @@ Hi! I'm **Youssef**... _That's it_
 
 - **Python**:
 
--- Making full fledge websites with Flask
+  - Making full fledge websites with Flask
+- HTML
+- CSS
 
 
 # What to learn next 🏫🏫:
