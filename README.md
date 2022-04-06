@@ -1,10 +1,10 @@
 
-# Welcome to my profile! 🙋‍♂️🙋‍♂️
+# Welcome to my profile! 🙋‍♂️🙋‍♂
 
 Hi! I'm **Youssef**... _That's it_
 
 
-# Programing *SKILLZ* ⚡⚡:
+# Programing *skills* ⚡:
 
 - **Python**:
 
@@ -13,7 +13,7 @@ Hi! I'm **Youssef**... _That's it_
 - CSS
 
 
-# What to learn next 🏫🏫:
+# What to learn next �🏫:
 I'll probably start learning *Kotlin* or *Flutter* or *IDK*.
 
 
