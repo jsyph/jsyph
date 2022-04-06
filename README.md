@@ -20,4 +20,3 @@ class Youlof2:
 
 
 [![Youlof2's github STATS](https://github-readme-stats.vercel.app/api?username=YOULOF2&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Alt Text](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
