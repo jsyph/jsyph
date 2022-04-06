@@ -1,5 +1,5 @@
 <h1 align="center">YOULOF2</h1>
-<h3 align="center">Hello! Welcome to my GitHub profile. This is the place where I place all my <em>AMAZING</em> projects</h3>
+<h3 align="center">Hello! Welcome to my GitHub profile. This is the place where all my <em>AMAZING</em> projects live!</h3>
 
 ```python
 class Youlof2:
